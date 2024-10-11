@@ -1,1 +1,3 @@
-cc
+/duy/
+/Huy/
+/via laidw/
